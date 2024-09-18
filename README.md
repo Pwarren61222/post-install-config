@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://imgur.com/AJz4CLP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step, I manipulated diffferent roles and its permissions to see how it allows certain people having certain levels of access within Os-Ticket.
+In this step, I manipulated diffferent roles and its permissions to see how it allows certain people to have certain levels of access within Os-Ticket.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ In this step, I manipulated diffferent roles and its permissions to see how it a
 <img src="https://imgur.com/XfZaaz5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step I configured the different departments by adding users to different departments which showed who was assigned certain tickets and who woudld be repsosible for completing them.
+In this step I configured the different departments by adding and removing users to different departments and how specific tickets are assigned to them.
 </p>
 <br />
 
@@ -46,6 +46,6 @@ In this step I configured the different departments by adding users to different
 <img src="https://imgur.com/DAphEXd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step, I configuered different teams and thier settings by going through the admin panel, then agents, then to teams, and added/removed created teams.
+In this step, I configuered different teams and thier settings by going through "the admin panel, then agents, then to teams, and added/removed created teams."
 </p>
 <br />
